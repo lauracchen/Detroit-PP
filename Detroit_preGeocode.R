@@ -1,6 +1,6 @@
 #adapted from "Seattle Shutoffs - prep for geocoding" by Winn Costantini
 
-#title: wm_geocode_prep.R
+#title: Detroit_preGeocode.R
 #author: Laura Chen
 #date: 3/10/22
 #output: "csv file DetroitPP_GeocodeReady.csv"
